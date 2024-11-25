@@ -13,6 +13,10 @@
 5. [Transforming Data Using Linear Algebra](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B5%5D_AIML_Module_01_Lab_03_Transforming_data_using_linear_algebra.ipynb)
 
 ### Module 02 : Appreciating, Interpreting and Visualizing Data
+**[[Project Module 02]](https://github.com/PranavReddyy/Labs-IIITH/blob/main/Projects/AIML_Module_02_Project_2024.ipynb)**
+
 6. [Basic Plots](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B6%5D_AIML_Module_02_Lab_01_Basic_Plots.ipynb)
 7. [Principal Components Analysis (PCA)](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B7%5D_AIML_Module_02_Lab_02_Principal_Components_Analysis_(PCA).ipynb)
 8. [Manifold Learning Methods](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B8%5D_AIML_Module_02_Lab_03_Manifold_Learning_Methods.ipynb)
+
+
