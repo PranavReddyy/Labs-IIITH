@@ -18,5 +18,6 @@
 6. [Basic Plots](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B6%5D_AIML_Module_02_Lab_01_Basic_Plots.ipynb)
 7. [Principal Components Analysis (PCA)](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B7%5D_AIML_Module_02_Lab_02_Principal_Components_Analysis_(PCA).ipynb)
 8. [Manifold Learning Methods](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B8%5D_AIML_Module_02_Lab_03_Manifold_Learning_Methods.ipynb)
+9. [t-SNE](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B9%5D_AIML_Module_02_Lab_04_t-SNE.ipynb)
 
 
