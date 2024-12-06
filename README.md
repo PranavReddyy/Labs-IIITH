@@ -20,4 +20,6 @@
 8. [Manifold Learning Methods](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B8%5D_AIML_Module_02_Lab_03_Manifold_Learning_Methods.ipynb)
 9. [t-SNE](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B9%5D_AIML_Module_02_Lab_04_t-SNE.ipynb)
 
+### Module 03 : Classification - I
+10. [Understanding Distance metrics and Introduction to KNN](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B10%5D_AIML_Module_03_Lab_01_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb)
 
