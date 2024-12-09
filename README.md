@@ -22,4 +22,5 @@
 
 ### Module 03 : Classification - I
 10. [Understanding Distance metrics and Introduction to KNN](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B10%5D_AIML_Module_03_Lab_01_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb)
+11. [Implementing KNN from scratch and visualize Algorithm performance](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B11%5D_AIML_Module_03_Lab_02_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb)
 
