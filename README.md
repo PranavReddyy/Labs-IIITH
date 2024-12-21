@@ -21,6 +21,9 @@
 9. [t-SNE](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B9%5D_AIML_Module_02_Lab_04_t-SNE.ipynb)
 
 ### Module 03 : Classification - I
+**[[Project Module 03]](https://github.com/PranavReddyy/Labs-IIITH/blob/main/Projects/AIML_Module_03_Project_2024.ipynb)**
+
 10. [Understanding Distance metrics and Introduction to KNN](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B10%5D_AIML_Module_03_Lab_01_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb)
 11. [Implementing KNN from scratch and visualize Algorithm performance](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B11%5D_AIML_Module_03_Lab_02_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb)
+12. [Using KNN for Text Classification](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B12%5D_AIML_Module_03_Lab_03_Using_KNN_for_Text_Classification.ipynb)
 
