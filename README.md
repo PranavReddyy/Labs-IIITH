@@ -27,3 +27,5 @@
 11. [Implementing KNN from scratch and visualize Algorithm performance](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B11%5D_AIML_Module_03_Lab_02_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb)
 12. [Using KNN for Text Classification](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B12%5D_AIML_Module_03_Lab_03_Using_KNN_for_Text_Classification.ipynb)
 
+### Module 04 : Perceptron and Gradient Descent
+13. [Perceptron](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B13%5D_AIML_Module_04_Lab_01_Perceptron_and_Gradient_Descent.ipynb)
