@@ -30,3 +30,4 @@
 ### Module 04 : Perceptron and Gradient Descent
 13. [Perceptron](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B13%5D_AIML_Module_04_Lab_01_Perceptron_and_Gradient_Descent.ipynb)
 14. [Introduction to Gradient Descent](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B14%5D_AIML_Module_04_Lab_02_Introduction_to_Gradient_Descent.ipynb)
+15. [Gradient Descent](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B15%5D_AIML_Module_04_Lab_03_Gradient_Descent.ipynb)
