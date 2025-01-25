@@ -28,9 +28,12 @@
 12. [Using KNN for Text Classification](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B12%5D_AIML_Module_03_Lab_03_Using_KNN_for_Text_Classification.ipynb)
 
 ### Module 04 : Perceptron and Gradient Descent
+**[[Project Module 04]](https://github.com/PranavReddyy/Labs-IIITH/blob/main/Projects/AIML_Module_04_Project_2025.ipynb)**
+
 13. [Perceptron](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B13%5D_AIML_Module_04_Lab_01_Perceptron_and_Gradient_Descent.ipynb)
 14. [Introduction to Gradient Descent](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B14%5D_AIML_Module_04_Lab_02_Introduction_to_Gradient_Descent.ipynb)
 15. [Gradient Descent](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B15%5D_AIML_Module_04_Lab_03_Gradient_Descent.ipynb)
 
 ### Module 05 : Regression
 16. [Linear Regression, MSE and Polynomial Regression](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B16%5D_AIML_Module_05_Lab_01_Linear_Regression_MSE_and_Polynomial_Regression.ipynb)
+17. [Loss Functions](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B17%5D_AIML_Module_05_Lab_02_Loss_Functions.ipynb)
