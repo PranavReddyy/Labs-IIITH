@@ -35,5 +35,7 @@
 15. [Gradient Descent](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B15%5D_AIML_Module_04_Lab_03_Gradient_Descent.ipynb)
 
 ### Module 05 : Regression
+**[[Project Module 05]](https://github.com/PranavReddyy/Labs-IIITH/blob/main/Projects/AIML_Module_05_Project_2024.ipynb)**
+
 16. [Linear Regression, MSE and Polynomial Regression](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B16%5D_AIML_Module_05_Lab_01_Linear_Regression_MSE_and_Polynomial_Regression.ipynb)
 17. [Loss Functions](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B17%5D_AIML_Module_05_Lab_02_Loss_Functions.ipynb)
