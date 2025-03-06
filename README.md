@@ -39,3 +39,10 @@
 
 16. [Linear Regression, MSE and Polynomial Regression](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B16%5D_AIML_Module_05_Lab_01_Linear_Regression_MSE_and_Polynomial_Regression.ipynb)
 17. [Loss Functions](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B17%5D_AIML_Module_05_Lab_02_Loss_Functions.ipynb)
+18. [Clustering](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B18%5D_AIML_Module_05_Lab_03_Clustering.ipynb)
+
+### Module 06 : Neural Networks
+
+19. [Neural Network](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B19%5D_AIML_Module_06_Lab_01_Neural_Network_1.ipynb)
+20. [Training a Neural Network](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B20%5D_AIML_Module_06_Lab_02_Training_a_Neural_Network.ipynb)
+21. [CNN Architectures](https://github.com/PranavReddyy/Labs-IIITH/blob/main/%5B21%5D_AIML_Module_06_Lab_03_CNN_Architectures.ipynb)
